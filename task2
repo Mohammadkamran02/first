@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>w3c</title>
+    <style>
+    body{
+        background-color: brown;
+    }
+
+    H1{
+        color: azure;
+        text-align: center;
+    }
+
+    p{
+        color:black;
+    }
+
+    a:link{
+        background-color: rgb(15, 122, 49);
+        text-decoration: none;
+       }
+       a:visited{
+        background-color: black;
+       }
+       a:hover{
+        background-color: rgb(101, 116, 5);
+       }
+
+    </style>
+    
+</head>
+<body >
+   <h1> About Me</h1>
+   <p> HII</p>
+   <p>I am Md Kamran, I belong to Darbhanga  (Bihar).
+    <br>
+    I was born on 01 Aprill 2005
+    <br>
+    I am studying in Diploma in Information Technology from Mannu University.
+    <br>
+    I love play cricket
+    <br>
+    Thank you.</p>
+    <img src="https://www.drawingtutorials101.com/drawing-tutorials/Cartoon-TV/Motu-Patlu/motu/how-to-draw-motu-from-motu-patlu.jpg" height="220"/>
+    <br>
+    <a href="https://www.google.com/search?q=w3schools&oq=&aqs=chrome.1.69i59i450l8.1677003j0j7&sourceid=chrome&ie=UTF-8">visit w3schools</a>
+
+    
+
+</body>
+</html>
+
+
